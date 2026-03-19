@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Evaluator.Core/Evaluator.Core.csproj" Id="15075150-cb78-4cad-be17-7f33d0697849" />
+  <Project Path="Evaluator.UI.Console/Evaluator.UI.Console.csproj" Id="2875e233-7870-4120-b69f-1d749be8a319" />
+  <Project Path="Evaluator.UI.Windows/Evaluator.UI.Windows.csproj" Id="b236facc-f0a1-4e93-a399-363b386d2065" />
+</Solution>
