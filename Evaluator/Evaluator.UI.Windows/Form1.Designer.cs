@@ -59,7 +59,7 @@
             txtDisplay.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             txtDisplay.Location = new Point(26, 32);
             txtDisplay.Name = "txtDisplay";
-            txtDisplay.Size = new Size(457, 47);
+            txtDisplay.Size = new Size(413, 47);
             txtDisplay.TabIndex = 0;
             // 
             // btn7
@@ -276,7 +276,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(506, 495);
+            ClientSize = new Size(462, 495);
             Controls.Add(btnResult);
             Controls.Add(btnCloseParenthesis);
             Controls.Add(btnOpenParenthesis);
