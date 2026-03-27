@@ -1,5 +1,4 @@
-﻿
-namespace Evaluator.Core;
+﻿namespace Evaluator.Core;
 
 public class ExpressionEvaluator
 {
@@ -132,7 +131,7 @@ public class ExpressionEvaluator
         '^' => Math.Pow(op1, op2),
         '+' => op1 + op2,
         '-' => op1 - op2,
-        '%' => op1 % op2, // Agregado el módulo
+        '%' => op1 % op2, 
         _ => throw new Exception("Operador no soportado."),
     };
 }

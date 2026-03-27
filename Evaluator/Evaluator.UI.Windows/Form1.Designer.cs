@@ -64,6 +64,7 @@
             // 
             // btn7
             // 
+            btn7.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn7.Location = new Point(24, 107);
             btn7.Name = "btn7";
             btn7.Size = new Size(74, 68);
@@ -74,6 +75,7 @@
             // 
             // btn9
             // 
+            btn9.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn9.Location = new Point(184, 107);
             btn9.Name = "btn9";
             btn9.Size = new Size(74, 68);
@@ -84,6 +86,7 @@
             // 
             // btn8
             // 
+            btn8.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn8.Location = new Point(104, 107);
             btn8.Name = "btn8";
             btn8.Size = new Size(74, 68);
@@ -94,6 +97,7 @@
             // 
             // btn2
             // 
+            btn2.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn2.Location = new Point(104, 255);
             btn2.Name = "btn2";
             btn2.Size = new Size(74, 68);
@@ -104,6 +108,7 @@
             // 
             // btn3
             // 
+            btn3.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn3.Location = new Point(184, 255);
             btn3.Name = "btn3";
             btn3.Size = new Size(74, 68);
@@ -114,6 +119,7 @@
             // 
             // btn1
             // 
+            btn1.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn1.Location = new Point(24, 255);
             btn1.Name = "btn1";
             btn1.Size = new Size(74, 68);
@@ -124,6 +130,7 @@
             // 
             // btn5
             // 
+            btn5.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn5.Location = new Point(104, 181);
             btn5.Name = "btn5";
             btn5.Size = new Size(74, 68);
@@ -134,6 +141,7 @@
             // 
             // btn6
             // 
+            btn6.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn6.Location = new Point(184, 181);
             btn6.Name = "btn6";
             btn6.Size = new Size(74, 68);
@@ -144,6 +152,7 @@
             // 
             // btn4
             // 
+            btn4.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn4.Location = new Point(26, 181);
             btn4.Name = "btn4";
             btn4.Size = new Size(74, 68);
@@ -154,6 +163,7 @@
             // 
             // btn0
             // 
+            btn0.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn0.Location = new Point(104, 329);
             btn0.Name = "btn0";
             btn0.Size = new Size(74, 68);
@@ -164,6 +174,7 @@
             // 
             // btnPoint
             // 
+            btnPoint.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnPoint.Location = new Point(184, 329);
             btnPoint.Name = "btnPoint";
             btnPoint.Size = new Size(74, 68);
@@ -174,6 +185,7 @@
             // 
             // btnDivision
             // 
+            btnDivision.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnDivision.Location = new Point(24, 329);
             btnDivision.Name = "btnDivision";
             btnDivision.Size = new Size(74, 68);
@@ -184,6 +196,7 @@
             // 
             // btnClear
             // 
+            btnClear.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnClear.Location = new Point(284, 107);
             btnClear.Name = "btnClear";
             btnClear.Size = new Size(74, 68);
@@ -194,6 +207,7 @@
             // 
             // btnDelete
             // 
+            btnDelete.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnDelete.Location = new Point(364, 107);
             btnDelete.Name = "btnDelete";
             btnDelete.Size = new Size(74, 68);
@@ -204,6 +218,7 @@
             // 
             // btnMultiply
             // 
+            btnMultiply.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnMultiply.Location = new Point(364, 181);
             btnMultiply.Name = "btnMultiply";
             btnMultiply.Size = new Size(74, 68);
@@ -214,6 +229,7 @@
             // 
             // btnPotency
             // 
+            btnPotency.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnPotency.Location = new Point(284, 181);
             btnPotency.Name = "btnPotency";
             btnPotency.Size = new Size(74, 68);
@@ -224,6 +240,7 @@
             // 
             // btnRest
             // 
+            btnRest.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnRest.Location = new Point(364, 255);
             btnRest.Name = "btnRest";
             btnRest.Size = new Size(74, 68);
@@ -234,6 +251,7 @@
             // 
             // btnPlus
             // 
+            btnPlus.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnPlus.Location = new Point(284, 255);
             btnPlus.Name = "btnPlus";
             btnPlus.Size = new Size(74, 68);
@@ -244,6 +262,7 @@
             // 
             // btnCloseParenthesis
             // 
+            btnCloseParenthesis.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnCloseParenthesis.Location = new Point(364, 329);
             btnCloseParenthesis.Name = "btnCloseParenthesis";
             btnCloseParenthesis.Size = new Size(74, 68);
@@ -254,6 +273,7 @@
             // 
             // btnOpenParenthesis
             // 
+            btnOpenParenthesis.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnOpenParenthesis.Location = new Point(284, 329);
             btnOpenParenthesis.Name = "btnOpenParenthesis";
             btnOpenParenthesis.Size = new Size(74, 68);
@@ -264,6 +284,7 @@
             // 
             // btnResult
             // 
+            btnResult.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnResult.Location = new Point(26, 415);
             btnResult.Name = "btnResult";
             btnResult.Size = new Size(412, 68);
